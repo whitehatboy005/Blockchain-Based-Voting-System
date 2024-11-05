@@ -48,6 +48,11 @@ This application serves as a prototype for secure, transparent voting systems. I
 ## Disclaimer
 
 This application is a demonstration and should not be used in real elections without further security and scalability considerations.
+# Registration page
+![Screenshot 2024-11-05 150655](https://github.com/user-attachments/assets/c30216c1-5b63-4712-8f11-95951123b17f)
+#
+# Voting Page
+![Screenshot 2024-11-05 150715](https://github.com/user-attachments/assets/ae10e167-0a3a-4099-85c1-06173735854b)
 #
 ## Installation
 ## Clone the Repository
