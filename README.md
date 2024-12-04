@@ -1,4 +1,5 @@
 # Blockchain-based Voting System
+[![License](https://img.shields.io/github/license/whitehatboy005/Blockchain-Based-Voting-System)](LICENSE.md)
 
 This project is a Blockchain-based Voting System application built using Python and Tkinter. It uses blockchain technology to ensure the integrity and transparency of the voting process by securely recording each vote in a tamper-proof ledger.
 
