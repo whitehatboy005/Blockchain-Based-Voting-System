@@ -1,9 +1,9 @@
-# Blockchain-based Voting System
+# 🔐 Blockchain-based Voting System
 [![License](https://img.shields.io/github/license/whitehatboy005/Blockchain-Based-Voting-System)](LICENSE.md)
 
 This project is a Blockchain-based Voting System application built using Python and Tkinter. It uses blockchain technology to ensure the integrity and transparency of the voting process by securely recording each vote in a tamper-proof ledger.
 
-## Features
+## 📌 Features
 
 1. **Blockchain Integration**  
    - Each vote is added as a block to the blockchain, containing a timestamp, candidate choice, and hash of the previous block.
@@ -46,7 +46,7 @@ This project is a Blockchain-based Voting System application built using Python 
 
 This application serves as a prototype for secure, transparent voting systems. It highlights how blockchain technology can be leveraged to securely manage sensitive data and provide transparent voting records.
 
-## Disclaimer
+## ✖️ Disclaimer
 
 This application is a demonstration and should not be used in real elections without further security and scalability considerations.
 # Registration page
@@ -55,13 +55,10 @@ This application is a demonstration and should not be used in real elections wit
 # Voting Page
 ![Screenshot 2024-11-05 150715](https://github.com/user-attachments/assets/ae10e167-0a3a-4099-85c1-06173735854b)
 #
-## Installation
+## ⚙️ Installation
 ## Clone the Repository
 ```bash
 git clone https://github.com/whitehatboy005/Blockchain-Based-Voting-System
-```
-## Move the file
-```bash
 cd Blockchain-Based-Voting-System
 ```
 ## Install Dependencies
@@ -77,7 +74,7 @@ python registration.py
 python voter.py
 ```
 #
-## License
+## 📝 License
 
 This project is licensed under the terms of the [MIT license](LICENSE.md).
 
